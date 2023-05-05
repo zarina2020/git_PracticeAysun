@@ -1,0 +1,3 @@
+Hello today is good weather
+Welcome to the git
+learn the git very well
