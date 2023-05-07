@@ -1,0 +1,8 @@
+During those 10 years, Git itself has taken the world by a storm, and the most popular type of
+software that is being developed with Git is shifting more towards web apps —
+at least in my filter bubble. Web apps are typically continuously delivered, not rolled back,
+ and you don't have to support multiple versions of the software running in the wild.
+
+This is not the class of software that I had in mind when I wrote the blog post
+10 years ago. If your team is doing continuous delivery of software, I would suggest to adopt a
+much simpler workflow (like GitHub flow) instead of trying to shoehorn git-flow into your team.
